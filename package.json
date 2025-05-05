@@ -7,7 +7,8 @@
         "doc": "docs"
     },
     "scripts": {
-        "lint": "textlint 'docs/' && markdownlint **/*.md"
+        "lint": "textlint 'docs/' && markdownlint docs/**/*.md",
+        "build:pdf": "md-to-pdf docs/resume.md --config-file ./pdf-configs/config.js"
     },
     "keywords": [],
     "author": "",
@@ -18,6 +19,7 @@
         "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^2.0.1",
         "@textlint-rule/textlint-rule-no-unmatched-pair": "^2.0.4",
         "markdownlint-cli": "^0.44.0",
+        "md-to-pdf": "^5.2.4",
         "textlint": "^14.7.1",
         "textlint-filter-rule-comments": "^1.2.2",
         "textlint-rule-apostrophe": "^3.0.0",
