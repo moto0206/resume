@@ -8,7 +8,7 @@
     },
     "scripts": {
         "lint": "textlint 'docs/' && markdownlint docs/**/*.md",
-        "build:pdf": "md-to-pdf docs/resume.md --config-file ./pdf-configs/config.js"
+        "build:pdf": "md-to-pdf docs/resume.md --config-file ./pdf-configs/config.js --launch-options '{ \"args\": [\"--no-sandbox\"] }'"
     },
     "keywords": [],
     "author": "",
