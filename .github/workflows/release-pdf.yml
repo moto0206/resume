@@ -9,7 +9,7 @@ on:
 jobs:
   release:
     name: Release PDF
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-lates 
     timeout-minutes: 10
     permissions:
       contents: write
