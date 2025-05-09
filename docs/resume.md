@@ -38,6 +38,8 @@ GitHub Copilot を積極的に開発作業に導入することで、生産性�
 | ------- | -------- |
 | Windows | 3        |
 
+<div style="page-break-before:always"></div>
+
 ## 言語・フレームワーク
 
 | 言語       | 経験年数 |
@@ -53,6 +55,8 @@ GitHub Copilot を積極的に開発作業に導入することで、生産性�
 | ---------- | -------- |
 | Jenkins    | 3        |
 | Git        | 3        |
+
+<div style="page-break-before:always"></div>
 
 ## 職務経歴
 
@@ -86,6 +90,8 @@ GitHub Copilot を積極的に開発作業に導入することで、生産性�
 -   コードレビュー担当、システム全体の品質担保、品質向上
 -   プロジェクト途中参画の技術パートナー企業へのコーディング方針連携、実装フィードバック
 -   開発効率向上のため、GitHub Copilot 活用、テスト駆動開発推進
+
+<div style="page-break-before:always"></div>
 
 ## 自己 PR
 
